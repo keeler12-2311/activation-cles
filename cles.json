@@ -1,4 +1,4 @@
 [
-  { "key": "ABCD-1234", "used": true, "mac": A0:02:A5:95:16:18 },
+  { "key": "ABCD-1234", "used": false, "mac": null },
   { "key": "EFGH-5678", "used": false, "mac": null }
 ]
